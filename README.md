@@ -38,6 +38,46 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 
 ---
 
+## 📂 Project Structure  
+
+├── node_modules/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ └── ui/
+│ │ ├── AboutSection.tsx
+│ │ ├── ContactSection.tsx
+│ │ ├── Footer.tsx
+│ │ ├── HeroSection.tsx
+│ │ ├── Navigation.tsx
+│ │ └── ServicesSection.tsx
+│ ├── hooks/
+│ ├── lib/
+│ ├── pages/
+│ ├── App.css
+│ ├── App.tsx
+│ ├── index.css
+│ ├── main.tsx
+│ └── vite-env.d.ts
+├── .gitignore
+├── bun.lockb
+├── components.json
+├── eslint.config.js
+├── index.html
+├── LICENSE
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+---
+
 ## ⚙️ Installation & Usage  
 
 1. Clone the repo  
