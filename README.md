@@ -19,8 +19,6 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 
 ## 📸 Screenshots  
 
-> *(Replace these placeholders with actual screenshots later)*  
-
 - Hero Section
   
   <img width="1900" height="872" alt="hero-section" src="https://github.com/user-attachments/assets/6fd5b7e7-f3fb-4d0b-800a-9082848ca508" />
@@ -29,7 +27,7 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
   
   <img width="1898" height="866" alt="About-section" src="https://github.com/user-attachments/assets/24526d30-b47f-4381-a696-c04cafa68d9d" />
 
-- Services Section
+- Service Section
   
   <img width="1897" height="777" alt="service-section" src="https://github.com/user-attachments/assets/70b383c6-c628-480c-bc94-569b5bdea3a5" />
  
@@ -98,6 +96,8 @@ SCT_WD_1/
    ```bash
    git clone <https://github.com/KunalatGH/SCT_WD_1.git>
    cd SCT_WD_1
+   npm install
+   npm run dev
 
 
 ---
