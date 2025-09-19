@@ -24,7 +24,9 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 - Hero Section
 - <img width="1900" height="872" alt="hero-section" src="https://github.com/user-attachments/assets/6fd5b7e7-f3fb-4d0b-800a-9082848ca508" />
 
-- ![About Section](screenshots/about-section.png)  
+- About Section
+ <img width="1897" height="777" alt="service-section" src="https://github.com/user-attachments/assets/70b383c6-c628-480c-bc94-569b5bdea3a5" />
+
 - ![Services Section](screenshots/services-section.png)  
 - ![Contact Section](screenshots/contact-section.png)  
 - ![Footer](screenshots/footer.png)  
