@@ -22,14 +22,19 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 > *(Replace these placeholders with actual screenshots later)*  
 
 - Hero Section
-- <img width="1900" height="872" alt="hero-section" src="https://github.com/user-attachments/assets/6fd5b7e7-f3fb-4d0b-800a-9082848ca508" />
+  <img width="1900" height="872" alt="hero-section" src="https://github.com/user-attachments/assets/6fd5b7e7-f3fb-4d0b-800a-9082848ca508" />
 
 - About Section
- <img width="1897" height="777" alt="service-section" src="https://github.com/user-attachments/assets/70b383c6-c628-480c-bc94-569b5bdea3a5" />
+  <img width="1898" height="866" alt="About-section" src="https://github.com/user-attachments/assets/24526d30-b47f-4381-a696-c04cafa68d9d" />
 
-- ![Services Section](screenshots/services-section.png)  
-- ![Contact Section](screenshots/contact-section.png)  
-- ![Footer](screenshots/footer.png)  
+- Services Section
+  <img width="1897" height="777" alt="service-section" src="https://github.com/user-attachments/assets/70b383c6-c628-480c-bc94-569b5bdea3a5" />
+ 
+- Contact Section
+  <img width="1900" height="862" alt="Contact-section" src="https://github.com/user-attachments/assets/decc8971-cee1-40db-aeae-3c5fa7e757cd" />
+
+- Footer
+  <img width="1902" height="870" alt="Footer" src="https://github.com/user-attachments/assets/18fb31a4-1017-422b-ac3d-60ff2ed3628c" />
 
 ---
 
