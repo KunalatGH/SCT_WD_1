@@ -39,7 +39,7 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 ---
 
 ## 📂 Project Structure  
-
+SCT_WD_1/
 ├── node_modules/
 ├── public/
 ├── src/
@@ -78,16 +78,13 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 
 ---
 
-## ⚙️ Installation & Usage  
+## ⚙️ Installation & Usage
 
-1. Clone the repo  
+1. **Clone the repo**
    ```bash
    git clone <repo-url>
-   cd tech-flow
+   cd SCT_WD_1
 
-   npm install
-
-   npm run dev
 
 ---
 
@@ -96,8 +93,3 @@ The design follows a **clean, glassmorphism-inspired look** with smooth animatio
 UI inspired by Scribble Template
 
 Built with ShadCN UI, Radix UI, and Lucide React
-
-
-
-## 📂 Project Structure  
-
