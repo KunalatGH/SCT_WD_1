@@ -40,7 +40,7 @@ const Navigation = () => {
     >
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          {/* Logo */}
+
           <div 
             className="text-2xl font-space font-bold cursor-pointer"
             onClick={() => scrollToSection('#hero')}
@@ -50,7 +50,6 @@ const Navigation = () => {
             </span>
           </div>
 
-          {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">
             {navItems.map((item) => (
               <button
@@ -64,7 +63,6 @@ const Navigation = () => {
             ))}
           </div>
 
-          {/* CTA Button */}
           <div className="hidden md:block">
             <Button 
               onClick={() => scrollToSection('#contact')}
@@ -75,7 +73,6 @@ const Navigation = () => {
             </Button>
           </div>
 
-          {/* Mobile Menu Button */}
           <button
             className="md:hidden text-foreground hover:text-primary transition-colors duration-300"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -88,7 +85,6 @@ const Navigation = () => {
           </button>
         </div>
 
-        {/* Mobile Menu */}
         {isMobileMenuOpen && (
           <div className="md:hidden mt-4 pb-4 animate-slide-up">
             <div className="flex flex-col space-y-4">

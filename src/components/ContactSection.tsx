@@ -28,7 +28,6 @@ const ContactSection = () => {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Simulate form submission
     setTimeout(() => {
       setIsSubmitting(false);
       toast({
@@ -66,7 +65,6 @@ const ContactSection = () => {
       
       <div className="container mx-auto px-6 relative">
         <div className="max-w-6xl mx-auto">
-          {/* Section Header */}
           <div className="text-center mb-16">
             <div className="inline-flex items-center gap-2 bg-primary/10 border border-primary/20 rounded-full px-4 py-2 mb-6">
               <span className="text-sm font-medium text-primary">Get In Touch</span>
@@ -83,7 +81,6 @@ const ContactSection = () => {
           </div>
 
           <div className="grid lg:grid-cols-3 gap-12">
-            {/* Contact Information */}
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl font-space font-semibold mb-6">
@@ -117,7 +114,6 @@ const ContactSection = () => {
               ))}
             </div>
 
-            {/* Contact Form */}
             <div className="lg:col-span-2">
               <Card className="glass p-8">
                 <h3 className="text-2xl font-space font-semibold mb-6">

@@ -45,9 +45,9 @@ const Footer = () => {
       
       <div className="container mx-auto px-6 py-16 relative">
         <div className="max-w-6xl mx-auto">
-          {/* Main Footer Content */}
+
           <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
-            {/* Brand Section */}
+
             <div className="lg:col-span-2">
               <div className="mb-6">
                 <h3 className="text-2xl font-space font-bold">
@@ -61,7 +61,6 @@ const Footer = () => {
                 </p>
               </div>
               
-              {/* Social Links */}
               <div className="flex space-x-4">
                 {socialLinks.map((social, index) => (
                   <a
@@ -76,7 +75,6 @@ const Footer = () => {
               </div>
             </div>
 
-            {/* Footer Links */}
             {Object.entries(footerLinks).map(([category, links]) => (
               <div key={category}>
                 <h4 className="font-space font-semibold text-foreground mb-4">
@@ -98,7 +96,6 @@ const Footer = () => {
             ))}
           </div>
 
-          {/* Bottom Footer */}
           <div className="pt-8 border-t border-border">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="flex items-center text-sm text-muted-foreground">
